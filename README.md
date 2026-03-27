@@ -41,7 +41,7 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 
 [config-sw3.txt](https://github.com/user-attachments/files/26309973/config-sw3.txt)
 
-### TEST dhcp/ping
+### TEST dhcp/ping/web
 
 
 <img width="447" height="497" alt="vpc1" src="https://github.com/user-attachments/assets/0266757a-41fa-4de7-a491-033b679c7559" />
@@ -50,3 +50,6 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 <img width="647" height="183" alt="ifconfig" src="https://github.com/user-attachments/assets/ec6905e3-6476-4961-bf5c-d27a6d9c2326" />
 <img width="525" height="535" alt="test ping kali" src="https://github.com/user-attachments/assets/6dd53b65-6471-4254-b111-dde8fb491ed4" />
 <img width="447" height="480" alt="test ping win7" src="https://github.com/user-attachments/assets/a05d2248-26b8-42a6-93fe-5f6339d7e43d" />
+<img width="1159" height="644" alt="test web kal" src="https://github.com/user-attachments/assets/8e64722c-3a1f-4dc5-9f3a-b2117da6eed1" />
+<img width="578" height="602" alt="test web win7" src="https://github.com/user-attachments/assets/93ba27f6-be9c-4348-861d-21d04962274e" />
+<img width="892" height="666" alt="test web server win" src="https://github.com/user-attachments/assets/27ed609f-1bd6-48a2-bfbe-b38cdc15c05c" />
