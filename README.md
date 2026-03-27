@@ -21,3 +21,8 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 # Apache2 (HTTP)
 <img width="730" height="531" alt="server web" src="https://github.com/user-attachments/assets/c256fdc9-a5dd-4940-bb73-a801f3110013" />
 <img width="294" height="108" alt="text web" src="https://github.com/user-attachments/assets/14173326-cfe6-4fd9-a355-f8c355c80f08" />
+# FTP 
+## Config-R1
+[config-R1.txt](https://github.com/user-attachments/files/26309765/config-R1.txt)
+## Config-sw1
+[config sw1.txt](https://github.com/user-attachments/files/26309778/config.sw1.txt)
