@@ -8,12 +8,13 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 * **Services:** Windows Server 2019 (DHCP/DNS), Ubuntu Server (Apache2/FTP).
 
 ## Aperçu du Lab
-![Topology](./lab.PNG)
-
-## Tests de Connectivité
-* Ping inter-VLAN réussi.
-* Accès au serveur Web via DNS (mohamed.ma).<img width="826" height="636" alt="test web server win" src="https://github.com/user-attachments/assets/206846f1-fbcc-4534-ae62-d47e36c15515" />
-<img width="456" height="412" alt="test ping1" src="https://github.com/user-attachments/assets/c2ef18d2-1128-4f8c-affc-32bbc807b5d7" />
-<img width="507" height="416" alt="test ping vlans" src="https://github.com/user-attachments/assets/02d16080-6f3e-4e3e-8f05-8a52a5a38caa" />
-<img width="669" height="433" alt="1" src="https://github.com/user-attachments/assets/73e01361-4744-460d-872d-70d5024a8530" />
-<img width="811" height="604" alt="lab" src="https://github.com/user-attachments/assets/a799df37-b48d-4b34-b69e-d95222eed26f" />
+<img width="811" height="604" alt="lab" src="https://github.com/user-attachments/assets/a4ee5894-4d33-4a10-bf1a-4205d43e3c44" />
+## Windows Server 2019 
+# DHCP
+<img width="1024" height="624" alt="4" src="https://github.com/user-attachments/assets/54deb540-3062-42c2-8f29-88fb6adebaab" />
+<img width="816" height="210" alt="3" src="https://github.com/user-attachments/assets/15f2321a-f784-40e5-898f-e17ca1934170" />
+<img width="747" height="166" alt="2" src="https://github.com/user-attachments/assets/6ec3fb40-35f3-4c9f-9127-9bd2aa51ac80" />
+<img width="835" height="169" alt="1" src="https://github.com/user-attachments/assets/81c3683e-44a7-43e2-9b92-a4db2565fc8d" />
+# DNS
+<img width="767" height="570" alt="1" src="https://github.com/user-attachments/assets/b2eebf15-3bf5-4343-b659-4b0b4c5afc3d" />
+## 
