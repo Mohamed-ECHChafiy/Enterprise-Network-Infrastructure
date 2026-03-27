@@ -9,8 +9,8 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 
 ## Aperçu du Lab
 <img width="811" height="604" alt="lab" src="https://github.com/user-attachments/assets/a4ee5894-4d33-4a10-bf1a-4205d43e3c44" />
-## Windows Server 2019
 
+## Windows Server 2019
 # DHCP
 <img width="1024" height="624" alt="4" src="https://github.com/user-attachments/assets/54deb540-3062-42c2-8f29-88fb6adebaab" />
 <img width="816" height="210" alt="3" src="https://github.com/user-attachments/assets/15f2321a-f784-40e5-898f-e17ca1934170" />
