@@ -40,3 +40,15 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 ## Config-SW3
 
 [config-sw3.txt](https://github.com/user-attachments/files/26309973/config-sw3.txt)
+
+### TEST
+
+<img width="892" height="666" alt="test web server win" src="https://github.com/user-attachments/assets/7bbf4a47-92ae-44ed-a2fe-aac68cdf45c7" />
+<img width="1159" height="644" alt="test web kal" src="https://github.com/user-attachments/assets/3d0ab881-9bd9-4c32-b7fc-8a4e761658ed" />
+<img width="447" height="480" alt="test ping win7" src="https://github.com/user-attachments/assets/4180103f-3be0-4c81-9120-ae80f8142f0c" />
+<img width="525" height="535" alt="test ping kali" src="https://github.com/user-attachments/assets/2da43028-70ae-4dd4-b3af-a220f2261052" />
+<img width="643" height="370" alt="pc win7" src="https://github.com/user-attachments/assets/f942efd2-a2a6-45e3-9dbc-509d07adc846" />
+<img width="647" height="183" alt="ifconfig" src="https://github.com/user-attachments/assets/9c8c93a8-9890-450b-a948-1145549f62ea" />
+<img width="447" height="495" alt="vpc2" src="https://github.com/user-attachments/assets/903c14c2-ce7c-4401-9c9f-fa9cf4df13ba" />
+<img width="447" height="497" alt="vpc1" src="https://github.com/user-attachments/assets/ec3e610a-7bbc-4681-bbe3-aec4362208ae" />
+<img width="578" height="602" alt="test web win7" src="https://github.com/user-attachments/assets/326f0285-ab52-4fb8-908b-c261c7c91052" />
