@@ -41,14 +41,12 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 
 [config-sw3.txt](https://github.com/user-attachments/files/26309973/config-sw3.txt)
 
-### TEST
+### TEST dhcp/ping
 
-<img width="892" height="666" alt="test web server win" src="https://github.com/user-attachments/assets/7bbf4a47-92ae-44ed-a2fe-aac68cdf45c7" />
-<img width="1159" height="644" alt="test web kal" src="https://github.com/user-attachments/assets/3d0ab881-9bd9-4c32-b7fc-8a4e761658ed" />
-<img width="447" height="480" alt="test ping win7" src="https://github.com/user-attachments/assets/4180103f-3be0-4c81-9120-ae80f8142f0c" />
-<img width="525" height="535" alt="test ping kali" src="https://github.com/user-attachments/assets/2da43028-70ae-4dd4-b3af-a220f2261052" />
-<img width="643" height="370" alt="pc win7" src="https://github.com/user-attachments/assets/f942efd2-a2a6-45e3-9dbc-509d07adc846" />
-<img width="647" height="183" alt="ifconfig" src="https://github.com/user-attachments/assets/9c8c93a8-9890-450b-a948-1145549f62ea" />
-<img width="447" height="495" alt="vpc2" src="https://github.com/user-attachments/assets/903c14c2-ce7c-4401-9c9f-fa9cf4df13ba" />
-<img width="447" height="497" alt="vpc1" src="https://github.com/user-attachments/assets/ec3e610a-7bbc-4681-bbe3-aec4362208ae" />
-<img width="578" height="602" alt="test web win7" src="https://github.com/user-attachments/assets/326f0285-ab52-4fb8-908b-c261c7c91052" />
+
+<img width="447" height="497" alt="vpc1" src="https://github.com/user-attachments/assets/0266757a-41fa-4de7-a491-033b679c7559" />
+<img width="447" height="495" alt="vpc2" src="https://github.com/user-attachments/assets/f3829d7a-49d1-4d83-a29c-46de3442627d" />
+<img width="643" height="370" alt="pc win7" src="https://github.com/user-attachments/assets/c002998d-1b47-4b98-a5fc-bec0290e177c" />
+<img width="647" height="183" alt="ifconfig" src="https://github.com/user-attachments/assets/ec6905e3-6476-4961-bf5c-d27a6d9c2326" />
+<img width="525" height="535" alt="test ping kali" src="https://github.com/user-attachments/assets/6dd53b65-6471-4254-b111-dde8fb491ed4" />
+<img width="447" height="480" alt="test ping win7" src="https://github.com/user-attachments/assets/a05d2248-26b8-42a6-93fe-5f6339d7e43d" />
