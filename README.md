@@ -28,3 +28,15 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 ## Config-R1
 
 [config-R1.txt](https://github.com/user-attachments/files/26309855/config-R1.txt)
+
+## Config-SW1
+
+[config sw1.txt](https://github.com/user-attachments/files/26309965/config.sw1.txt)
+
+## Config-SW2
+
+[config-sw2.txt](https://github.com/user-attachments/files/26309972/config-sw2.txt)
+
+## Config-SW3
+
+[config-sw3.txt](https://github.com/user-attachments/files/26309973/config-sw3.txt)
