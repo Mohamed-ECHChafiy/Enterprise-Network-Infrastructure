@@ -4,8 +4,8 @@
 Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agrégation de liens et services serveurs.
 
 ## Technologies Utilisées
-* **Cisco Networking:** Inter-VLAN Routing (R1), EtherChannel LACP (SW1, SW2, SW3), VTP v3, Trunking 802.1Q.
-* **Services:** Windows Server 2019 (DHCP/DNS), Ubuntu Server (Apache2/FTP).
+* **Cisco Networking:** Inter-VLAN Routing (R1), EtherChannel LACP (SW1, SW2, SW3), VTP v2, Trunking 802.1Q.
+* **Services:** Windows Server 2019 (DHCP/DNS), Ubuntu Server (Apache2/VCftpd).
 
 ## Aperçu du Lab
 <img width="811" height="604" alt="lab" src="https://github.com/user-attachments/assets/a4ee5894-4d33-4a10-bf1a-4205d43e3c44" />
