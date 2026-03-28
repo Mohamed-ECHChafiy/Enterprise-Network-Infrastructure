@@ -28,7 +28,8 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 # Linux Server Ubuntu
 ## Apache2 (HTTP)
 <img width="730" height="531" alt="server web" src="https://github.com/user-attachments/assets/c256fdc9-a5dd-4940-bb73-a801f3110013" />
-<img width="294" height="108" alt="text web" src="https://github.com/user-attachments/assets/14173326-cfe6-4fd9-a355-f8c355c80f08" />
+<img width="294" height="108" <img width="721" height="98" alt="6" src="https://github.com/user-attachments/assets/4d90003e-7876-4f71-a269-a0581f79e183" />
+alt="text web" src="https://github.com/user-attachments/assets/14173326-cfe6-4fd9-a355-f8c355c80f08" />
 
 # Config-R1
 
