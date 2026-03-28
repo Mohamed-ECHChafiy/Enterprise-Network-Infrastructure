@@ -1,6 +1,6 @@
-# Multi-VLAN Network Infrastructure & Services Lab
 
-## Architecture du Réseau
+
+# Architecture du Réseau
 Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agrégation de liens et services serveurs.
 
 ## Technologies Utilisées
@@ -24,8 +24,8 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 <img width="747" height="166" alt="2" src="https://github.com/user-attachments/assets/6ec3fb40-35f3-4c9f-9127-9bd2aa51ac80" />
 <img width="835" height="169" alt="1" src="https://github.com/user-attachments/assets/81c3683e-44a7-43e2-9b92-a4db2565fc8d" />
 
-## DNS
 
+## DNS
 <img width="775" height="247" alt="8" src="https://github.com/user-attachments/assets/82debe99-c499-4e9c-816c-edc4cd58e22d" />
 <img width="767" height="570" alt="1" src="https://github.com/user-attachments/assets/b2eebf15-3bf5-4343-b659-4b0b4c5afc3d" />
 
@@ -41,7 +41,7 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 
 # Config-R1
 
-[config-R1.txt](https://github.com/user-attachments/files/26309855/config-R1.txt)
+ [config-R1.txt](https://github.com/user-attachments/files/26323288/config-R1.txt)
 
 # Config-SW1
 
@@ -65,12 +65,13 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 ### PC2 (kali)
 <img width="647" height="183" alt="ifconfig" src="https://github.com/user-attachments/assets/f27861f9-62f9-43e5-b05b-019d5adc13db" />
 <img width="525" height="535" alt="test ping kali" src="https://github.com/user-attachments/assets/98a82366-86dd-4312-b5a3-ab60abe95bbd" />
-<img width="1159" height="644" alt="test web kal" src="https://github.com/user-attachments/assets/0d6dbcba-597d-44b3-92c7-464c284bcafc" />
+<img width="1159" height="644" alt="test web kal"
 <img width="594" height="335" alt="3" src="https://github.com/user-attachments/assets/9f34c4c7-aa95-47e8-a478-1b29aa4604a1" />
 
 ## VLAN 20 (DEV)
 
 ### PC1
+
 <img width="447" height="495" alt="vpc2" src="https://github.com/user-attachments/assets/06d55a85-5a2f-41ba-ba49-7d78130da25d" />
 
 ### PC2 (win-7)
