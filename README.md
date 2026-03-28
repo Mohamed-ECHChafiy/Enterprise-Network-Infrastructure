@@ -12,22 +12,32 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 
 # Windows Server 2019
 
+<img width="1024" height="624" alt="4" src="https://github.com/user-attachments/assets/54deb540-3062-42c2-8f29-88fb6adebaab" />
 <img width="669" height="433" alt="1" src="https://github.com/user-attachments/assets/68b1ae32-02bd-4391-a659-a6676601ebd2" />
 <img width="456" height="412" alt="test ping1" src="https://github.com/user-attachments/assets/d998e1cd-9449-4d99-977c-36aefc222206" />
 <img width="507" height="416" alt="test ping vlans" src="https://github.com/user-attachments/assets/4d546156-fa9a-4aa4-81de-c32a13f83126" />
 
 ## DHCP
-<img width="1024" height="624" alt="4" src="https://github.com/user-attachments/assets/54deb540-3062-42c2-8f29-88fb6adebaab" />
+
+<img width="721" height="98" alt="6" src="https://github.com/user-attachments/assets/d9087d58-08fe-4c6c-85cc-a7269269b637" />
 <img width="816" height="210" alt="3" src="https://github.com/user-attachments/assets/15f2321a-f784-40e5-898f-e17ca1934170" />
 <img width="747" height="166" alt="2" src="https://github.com/user-attachments/assets/6ec3fb40-35f3-4c9f-9127-9bd2aa51ac80" />
 <img width="835" height="169" alt="1" src="https://github.com/user-attachments/assets/81c3683e-44a7-43e2-9b92-a4db2565fc8d" />
 
 ## DNS
+
+<img width="775" height="247" alt="8" src="https://github.com/user-attachments/assets/82debe99-c499-4e9c-816c-edc4cd58e22d" />
 <img width="767" height="570" alt="1" src="https://github.com/user-attachments/assets/b2eebf15-3bf5-4343-b659-4b0b4c5afc3d" />
 
 # Linux Server Ubuntu
 ## Apache2 (HTTP)
 <img width="730" height="531" alt="server web" src="https://github.com/user-attachments/assets/c256fdc9-a5dd-4940-bb73-a801f3110013" />
+<img width="294" height="108" alt="text web" src="https://github.com/user-attachments/assets/a9538e64-58b0-47f5-a153-1f15ec2b2a60" />
+
+## VSftpd
+
+<img width="804" height="292" alt="2" src="https://github.com/user-attachments/assets/01c4e7f5-7389-4753-87a8-8d57a2ba80ba" />
+<img width="398" height="98" alt="1" src="https://github.com/user-attachments/assets/cbc7f5bc-49c6-407c-9f57-490d912c5cbe" />
 
 # Config-R1
 
@@ -45,15 +55,30 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 
 [config-sw3.txt](https://github.com/user-attachments/files/26309973/config-sw3.txt)
 
-# TEST dhcp/ping/web
+# TEST dhcp/ping/web/ftp
+
+## VLAN 10 (IT)
+
+### PC1
+<img width="447" height="497" alt="vpc1" src="https://github.com/user-attachments/assets/96d34934-8a7d-417a-bbfb-48554e3ecf9d" />
+
+### PC2 (kali)
+<img width="647" height="183" alt="ifconfig" src="https://github.com/user-attachments/assets/f27861f9-62f9-43e5-b05b-019d5adc13db" />
+<img width="525" height="535" alt="test ping kali" src="https://github.com/user-attachments/assets/98a82366-86dd-4312-b5a3-ab60abe95bbd" />
+<img width="1159" height="644" alt="test web kal" src="https://github.com/user-attachments/assets/0d6dbcba-597d-44b3-92c7-464c284bcafc" />
+<img width="594" height="335" alt="3" src="https://github.com/user-attachments/assets/9f34c4c7-aa95-47e8-a478-1b29aa4604a1" />
+
+## VLAN 20 (DEV)
+
+### PC1
+<img width="447" height="495" alt="vpc2" src="https://github.com/user-attachments/assets/06d55a85-5a2f-41ba-ba49-7d78130da25d" />
+
+### PC2 (win-7)
+<img width="643" height="370" alt="pc win7" src="https://github.com/user-attachments/assets/249192b1-2e3f-47b5-8100-9e388cf64c51" />
+<img width="447" height="480" alt="test ping win7" src="https://github.com/user-attachments/assets/02108b24-ad65-4c08-9041-38e5c0e37e06" />
+<img width="578" height="602" alt="test web win7" src="https://github.com/user-attachments/assets/0ba47956-71d3-4f57-b1c8-3029b8a82c6a" />
+<img width="668" height="373" alt="4" src="https://github.com/user-attachments/assets/8aa90917-73b7-4e7a-8143-3687e5dbb395" />
 
 
-<img width="447" height="497" alt="vpc1" src="https://github.com/user-attachments/assets/0266757a-41fa-4de7-a491-033b679c7559" />
-<img width="447" height="495" alt="vpc2" src="https://github.com/user-attachments/assets/f3829d7a-49d1-4d83-a29c-46de3442627d" />
-<img width="643" height="370" alt="pc win7" src="https://github.com/user-attachments/assets/c002998d-1b47-4b98-a5fc-bec0290e177c" />
-<img width="647" height="183" alt="ifconfig" src="https://github.com/user-attachments/assets/ec6905e3-6476-4961-bf5c-d27a6d9c2326" />
-<img width="525" height="535" alt="test ping kali" src="https://github.com/user-attachments/assets/6dd53b65-6471-4254-b111-dde8fb491ed4" />
-<img width="447" height="480" alt="test ping win7" src="https://github.com/user-attachments/assets/a05d2248-26b8-42a6-93fe-5f6339d7e43d" />
-<img width="1159" height="644" alt="test web kal" src="https://github.com/user-attachments/assets/8e64722c-3a1f-4dc5-9f3a-b2117da6eed1" />
-<img width="578" height="602" alt="test web win7" src="https://github.com/user-attachments/assets/93ba27f6-be9c-4348-861d-21d04962274e" />
-<img width="892" height="666" alt="test web server win" src="https://github.com/user-attachments/assets/27ed609f-1bd6-48a2-bfbe-b38cdc15c05c" />
+
+
