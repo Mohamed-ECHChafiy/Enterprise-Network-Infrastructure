@@ -65,7 +65,7 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 ### PC2 (kali)
 <img width="647" height="183" alt="ifconfig" src="https://github.com/user-attachments/assets/f27861f9-62f9-43e5-b05b-019d5adc13db" />
 <img width="525" height="535" alt="test ping kali" src="https://github.com/user-attachments/assets/98a82366-86dd-4312-b5a3-ab60abe95bbd" />
-<img width="1159" height="644" alt="test web kal"
+<img width="1159" height="644" alt="test web kal" src="https://github.com/user-attachments/assets/da02d0c2-13f8-4632-9ca9-b29b6fe79306" />
 <img width="594" height="335" alt="3" src="https://github.com/user-attachments/assets/9f34c4c7-aa95-47e8-a478-1b29aa4604a1" />
 
 ## VLAN 20 (DEV)
