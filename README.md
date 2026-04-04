@@ -41,7 +41,7 @@ Ce projet simule une infrastructure d'entreprise avec segmentation VLAN, agréga
 
 # Config-R1
 
-<img width="330" height="480" alt="R1" src="https://github.com/user-attachments/assets/5b8c26cb-3f5a-4fe5-8d1d-a689112d376b" />
+<img width="582" height="526" alt="R1" src="https://github.com/user-attachments/assets/89aeb522-7a8f-49b8-8cb3-cb3defbf7bbf" />
 
  [config-R1.txt](https://github.com/user-attachments/files/26323288/config-R1.txt)
 
